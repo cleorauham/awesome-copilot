@@ -7,7 +7,7 @@
 
 This is a community-driven fork of [github/awesome-copilot](https://github.com/github/awesome-copilot), extending the original with additional community contributions, agent workflows, and plugin marketplace integrations.
 
-> **Personal fork note:** I'm using this primarily to track prompt libraries and agent workflows relevant to Go and TypeScript projects.
+> **Personal fork note:** I'm using this primarily to track prompt libraries and agent workflows relevant to Go and TypeScript projects. Also collecting useful resources for CLI tooling and REST API design.
 
 ## Contents
 
@@ -36,6 +36,7 @@ Collections of reusable prompts for common development tasks.
 - **Documentation** — Generate README files, docstrings, and API docs.
 - **Testing** — Write unit tests, integration tests, and test plans.
 - **Refactoring** — Improve code quality and maintainability.
+- **Go-specific** — Prompts tailored for idiomatic Go: error handling, interfaces, goroutines. *(personal addition)*
 
 ## Agent Workflows
 
@@ -59,6 +60,7 @@ Copilot extensions and plugins available in the marketplace.
 - [GitHub Copilot Docs](https://docs.github.com/en/copilot)
 - [GitHub Copilot Extensions](https://github.com/features/copilot/extensions)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Effective Go](https://go.dev/doc/effective_go) — Useful alongside Go-specific Copilot prompts.
 
 ---
 
