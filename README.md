@@ -38,6 +38,7 @@ Collections of reusable prompts for common development tasks.
 - **Refactoring** — Improve code quality and maintainability.
 - **Go-specific** — Prompts tailored for idiomatic Go: error handling, interfaces, goroutines. *(personal addition)*
 - **TypeScript-specific** — Prompts for strict typing, generics, and async patterns. *(personal addition)*
+- **REST API Design** — Prompts for OpenAPI specs, versioning, and consistent error responses. *(personal addition)*
 
 ## Agent Workflows
 
@@ -62,12 +63,5 @@ Copilot extensions and plugins available in the marketplace.
 - [GitHub Copilot Extensions](https://github.com/features/copilot/extensions)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Effective Go](https://go.dev/doc/effective_go) — Useful alongside Go-specific Copilot prompts.
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) — Reference for TypeScript-specific prompts.
-
----
-
-## Contributing
-
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-1. Fork 
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [REST API Design Best Practices](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design) — Reference for REST API prompt work.
