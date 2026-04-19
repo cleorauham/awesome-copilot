@@ -7,6 +7,8 @@
 
 This is a community-driven fork of [github/awesome-copilot](https://github.com/github/awesome-copilot), extending the original with additional community contributions, agent workflows, and plugin marketplace integrations.
 
+> **Personal fork note:** I'm using this primarily to track prompt libraries and agent workflows relevant to Go and TypeScript projects.
+
 ## Contents
 
 - [Copilot Instructions](#copilot-instructions)
