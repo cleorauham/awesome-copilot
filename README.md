@@ -37,6 +37,7 @@ Collections of reusable prompts for common development tasks.
 - **Testing** — Write unit tests, integration tests, and test plans.
 - **Refactoring** — Improve code quality and maintainability.
 - **Go-specific** — Prompts tailored for idiomatic Go: error handling, interfaces, goroutines. *(personal addition)*
+- **TypeScript-specific** — Prompts for strict typing, generics, and async patterns. *(personal addition)*
 
 ## Agent Workflows
 
@@ -61,6 +62,7 @@ Copilot extensions and plugins available in the marketplace.
 - [GitHub Copilot Extensions](https://github.com/features/copilot/extensions)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Effective Go](https://go.dev/doc/effective_go) — Useful alongside Go-specific Copilot prompts.
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) — Reference for TypeScript-specific prompts.
 
 ---
 
@@ -68,12 +70,4 @@ Copilot extensions and plugins available in the marketplace.
 
 Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
 
-1. Fork the repository
-2. Add your resource or improvement
-3. Submit a pull request
-
-See [.all-contributorsrc](.all-contributorsrc) for the full list of contributors.
-
-## License
-
-[CC0 1.0 Universal](LICENSE) — Public Domain Dedication
+1. Fork 
