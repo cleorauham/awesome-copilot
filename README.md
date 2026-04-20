@@ -41,6 +41,7 @@ Collections of reusable prompts for common development tasks.
 - **REST API Design** — Prompts for OpenAPI specs, versioning, and consistent error responses. *(personal addition)*
 - **SQL & Migrations** — Prompts for writing safe migrations and query optimization. *(personal addition)*
 - **Docker & Compose** — Prompts for writing minimal Dockerfiles and multi-service compose configs. *(personal addition)*
+- **Git & Commit Messages** — Prompts for writing clear conventional commits and PR descriptions. *(personal addition)*
 
 ## Agent Workflows
 
@@ -58,8 +59,3 @@ Copilot extensions and plugins available in the marketplace.
 ## Tools & Utilities
 
 - **awesome-copilot CLI** *(coming soon)* — Browse and install instructions/prompts from the command line.
-
-## Learning Resources
-
-- [GitHub Copilot Docs](https://docs.github.com/en/copilot)
-- [GitHub Copilot Extensions](https://github.com/features/
